@@ -1,9 +1,12 @@
+import org.junit.Assert;
+import org.junit.Test;
 
 public class VirtualPetAppTest {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	VirtualPetApp virtualPetApp = new VirtualPetApp();
 
+	
+	
 	}
 
-}
+
